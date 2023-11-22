@@ -1,7 +1,6 @@
 public class _3_java {
     public static void main(String[] args) {
         //ЛОГИЧЕСКИЕ ОПЕРАЦИИ
-
         System.out.println("ЛОГИЧЕСКИЕ ОПЕРАЦИИ:\n");
         //Условное И - && (конъюкция)
         //Можно так же использовать логичское И - &,
