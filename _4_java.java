@@ -20,6 +20,7 @@ public class _4_java {
                 System.out.println("int is not 1 or 2");
                 break;
         }
+
         System.out.print("\nchar = "+letter+"\nswitch result: ");
         switch (letter) {
             case 'A':
